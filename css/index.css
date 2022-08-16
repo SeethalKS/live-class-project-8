@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  margin: 0px;
+  background-image: url(/images/backcover.svg) ;
+  background-repeat: no-repeat;
+  background-position: 100% 100px;
+  background-position-y:top ;
+
+}
+
+.main-div{
+margin: 10px auto;
+}
+
+  #navSection
+  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    padding: 20px 60px 20px 60px;  
+   
+  }
+  #navSection img{
+    height: 35px;
+  }
+  .nav-items{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    cursor: pointer;
+  }
+  .nav-item{
+    font-weight: 600;
+  font-size: 15px;
+  color: #1f2873;
+  }
+  .signin-btn{
+  background: linear-gradient(85.75deg, #965cf2 23.2%, #ff8adc 85.74%);
+  border-radius: 50px;
+  padding: 5px 25px;
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  font-family: "Roboto", sans-serif;
+  }
+  .intro-section{
+  
+    display: flex;
+    
+    padding: 20px 60px 20px 60px;  
+  }
+  .left-section{
+    font-family: "Roboto", sans-serif;
+    margin-top: 50px;
+    margin-right:450px ;
+  }
+  .h1-web{
+   
+    font-weight: 700;
+    font-size: 4rem;
+    color: #3e4794;
+   }
+  .h4text{
+    margin-top: 40px;
+    margin-right:400px; 
+  }
+  .h4-text{
+    
+    font-weight: normal;
+    font-size: 15px;
+    color: #797d99;
+    font-family: "Roboto", sans-serif;
+    line-height: 25px;
+   
+  }
+  .learn-more-btn{
+  background: linear-gradient(85.75deg, #965cf2 23.2%, #ff8adc 85.74%);
+  border-radius: 50px;
+  padding: 5px 25px;
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  margin-left: 60px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 50px;
+  }
+  .imgs-div{
+   width: auto;
+   display:flex;
+   flex-direction: column-reverse;  
+   position: absolute;
+  margin-left:400px;
+  }
+  .intro-img{
+    height: 600px;
+  }
+  .intro-img{
+    height: 800px;
+  }
+  .vectorimg{
+    margin-top: -260px;
+    height: 100px;
+  }
+  .vectordot{
+   
+    height: 60px;
+    margin-bottom: 30px;
+    margin-left:60px;
+    position: absolute;
+  }
+ 
+
+
