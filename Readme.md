@@ -1,7 +1,15 @@
 # My Project 8
 
-Used Flex,Positions
+## This is the design which is given to convert into a web page👇
 
-### My live Link is here.Please find out and share your comments
+![Website Design in image format](./8.png)
 
-[Project 8](https://62fb655d78f017005bea9177--glittery-starship-444961.netlify.app/)
+### It takes me 1 and half days to complete this project and also introduced me into some of the important flexbox and I added media query.
+
+#### *In case you are interested in this project, feel free to use these files for educational purposes*👍
+👉[**Project 8**](https://glittery-starship-444961.netlify.app/)
+
+![badge](https://img.shields.io/badge/html--css-Project-lightgrey)
+
+
+
